@@ -8,6 +8,7 @@
     <RootNamespace>GTKFirst</RootNamespace>
     <AssemblyName>01-GTK-First</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <Description>My first GTK app on a mac</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
     <DebugSymbols>true</DebugSymbols>

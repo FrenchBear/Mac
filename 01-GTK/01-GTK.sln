@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-GTK-First", "01-GTK-First.csproj", "{F4BB83C5-5AC4-4C02-B5A0-4FA34750B673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-GTK", "01-GTK.csproj", "{F4BB83C5-5AC4-4C02-B5A0-4FA34750B673}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
