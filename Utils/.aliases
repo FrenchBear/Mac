@@ -1,0 +1,12 @@
+# some more ls aliases
+alias ll='ls -l -G -F'
+alias lc='ls -CF -G'
+alias la='ls -CAF -G'
+alias l='ls -l -G -F'
+alias cls=clear
+alias m=make
+alias md=mkdir
+alias rd=rmdir
+alias hi='history 25'
+alias man='man -P less'
+alias python=python3
